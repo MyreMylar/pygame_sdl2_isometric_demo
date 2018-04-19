@@ -10,6 +10,22 @@ should be able to run this code and see something like this:
 
 ![current_build screen shot](https://i.imgur.com/Bzcfomq.png)
 
+Dependencies
+------------
+
+You will also need the following python libraries:
+
+- pygame_sdl2 (with modifications)
+- pytmx
+
+You can grab pytmx with pip:
+
+`pip install pytmx`
+
+and grab the source for pygame_sdl2 here:
+
+[https://github.com/renpy/pygame_sdl2](https://github.com/renpy/pygame_sdl2)
+
 Controls
 --------
 
