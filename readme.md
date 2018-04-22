@@ -5,7 +5,7 @@ This project is my attempt to create a reasonably fast method of displaying isom
 Unfortunately it does not yet make use of vanilla Pygame SDL2, I've had to add a little special sauce
 to get the demo to it's current state.
 
-Assuming you have managed to get your hands on an appropriately altered version of Pygame SDL2 though, you
+Assuming you manage to grab and install my branch of Pygame SDL2 though, you
 should be able to run this code and see something like this:
 
 ![current_build screen shot](https://i.imgur.com/Bzcfomq.png)
@@ -15,16 +15,16 @@ Dependencies
 
 You will also need the following python libraries:
 
-- pygame_sdl2 (with modifications)
+- my latest branch of pygame_sdl2: 
 - pytmx
 
 You can grab pytmx with pip:
 
 `pip install pytmx`
 
-and grab the source for pygame_sdl2 here:
+and grab my latest branch of pygame_sdl2 here:
 
-[https://github.com/renpy/pygame_sdl2](https://github.com/renpy/pygame_sdl2)
+[https://github.com/MyreMylar/pygame_sdl2/tree/hack_branch_latest](https://github.com/MyreMylar/pygame_sdl2/tree/hack_branch_latest)
 
 Controls
 --------
